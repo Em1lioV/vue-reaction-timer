@@ -1,5 +1,5 @@
 # reaction-timer
-### learning some lifecycle hooks and custom event with data to make a reaction timer in vue.js
+### Learning about Vue.js lifecycle hooks and custom events with data to create a reaction timer.
 
 ## Project setup
 ```
